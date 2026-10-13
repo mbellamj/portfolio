@@ -42,6 +42,10 @@ npm run preview
 | `public/examples/portfolio.json` | Same-origin HTTP integration example |
 | `docs/` | Architecture, API integration guide and generated JSON Schema |
 
+## GitHub Pages
+
+The deployment workflow tests and builds the portfolio for `/portfolio/` before publishing `dist/` to GitHub Pages. Publication must first be enabled in the repository settings. See [GitHub Pages deployment](docs/GITHUB-PAGES.md) for activation, visibility, permissions and future updates.
+
 ## Light / dark appearance
 
 The header toggle uses a small sun/moon icon. Without a saved preference, it follows the device theme and listens for system changes. A user choice is stored under `portfolio-theme` and restored on the next visit. The head bootstrap applies the theme before the first paint; the React provider keeps controls, colors and browser theme metadata in sync.
