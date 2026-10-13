@@ -1,0 +1,57 @@
+/* Shared appearance for the hosted portfolio and the React export. */
+:root{color-scheme:light;--theme-background:#f5f3ec;--theme-text:#252a22;--theme-accent:#718459}
+:root[data-theme="dark"]{color-scheme:dark;--theme-background:#111813;--theme-text:#eceee4;--theme-accent:#bad29c}
+body{background:var(--theme-background);color:var(--theme-text)}
+.theme-toggle{display:inline-flex;align-items:center;justify-content:center;flex-shrink:0;width:36px;height:36px;padding:0;border:1px solid #ccd5bc;border-radius:50%;background:#eeeee4;color:#536743;cursor:pointer;box-shadow:0 2px 5px #303b2d05;transition:background .2s,border-color .2s,transform .2s,box-shadow .2s}
+.theme-toggle:hover{background:#e2e8d5;border-color:#aaba92;box-shadow:0 3px 10px #303b2d10;transform:translateY(-1px)}
+.theme-toggle:active{transform:translateY(0) scale(.96)}
+.theme-glyph{display:block;width:19px;height:19px;transition:transform .3s}
+.theme-toggle:hover .theme-glyph{transform:rotate(-12deg)}
+.theme-icon-sun{display:none}
+[data-theme="dark"] .theme-icon-sun{display:block}
+[data-theme="dark"] .theme-icon-moon{display:none}
+[data-theme="dark"] .theme-toggle{border-color:#4b603e;background:#22311f;color:#cbdcab;box-shadow:0 2px 10px #00000018}
+[data-theme="dark"] .theme-toggle:hover{background:#30422a;border-color:#829b66}
+[data-theme="dark"] ::selection{background:#bdd59c;color:#1e301a}
+[data-theme="dark"] a:focus-visible,[data-theme="dark"] button:focus-visible,[data-theme="dark"] input:focus-visible,[data-theme="dark"] select:focus-visible,[data-theme="dark"] textarea:focus-visible,[data-theme="dark"] summary:focus-visible{outline-color:#bad29c}
+[data-theme="dark"] .skip{background:#263621;color:#eef4e3}
+[data-theme="dark"] .site-header,[data-theme="dark"] .profile-strip,[data-theme="dark"] .footer-bottom{border-color:#354232}
+[data-theme="dark"] .hero-description,[data-theme="dark"] .section-intro,[data-theme="dark"] .freelance-heading>p,[data-theme="dark"] .skill-card p,[data-theme="dark"] .freelance-grid p,[data-theme="dark"] .education-grid p{color:#adb9a3}
+[data-theme="dark"] .hero-location,[data-theme="dark"] .system-figure figcaption,[data-theme="dark"] footer>p,[data-theme="dark"] .footer-bottom{color:#9fb091}
+[data-theme="dark"] .profile-strip>div>span{color:#b1c09f}
+[data-theme="dark"] .profile-icon,[data-theme="dark"] .design-mark,[data-theme="dark"] .card-index,[data-theme="dark"] .education-date{color:#b2cb94}
+[data-theme="dark"] .status-dot{background:#b2cb94}
+[data-theme="dark"] .button{background:#c6d9aa;color:#26351d;border-color:#c6d9aa}
+[data-theme="dark"] .button:hover{background:#d7e7bb;border-color:#d7e7bb}
+[data-theme="dark"] .text-link{ text-decoration-color:#779567 }
+[data-theme="dark"] .text-link:hover{text-decoration-color:#d1e1ba}
+[data-theme="dark"] .system-board{background:#1b2a20;border-color:#3a4e32;box-shadow:0 15px 40px #00000020}
+[data-theme="dark"] .board-top{background:#142018;border-color:#42523c}
+[data-theme="dark"] .skill-card{background:#1a241a;border-color:#354832}
+[data-theme="dark"] .tags span{background:#243321;border-color:#405538;color:#c0d0af}
+[data-theme="dark"] .experience-section{background:#162018}
+[data-theme="dark"] .timeline,[data-theme="dark"] .experience,[data-theme="dark"] .freelance-grid article,[data-theme="dark"] .education-grid article{border-color:#354432}
+[data-theme="dark"] .experience-date small{color:#9bad8d}
+[data-theme="dark"] .experience-date .current-tag{background:#344726;color:#d1e4b9}
+[data-theme="dark"] .company,[data-theme="dark"] .experience-arrow{color:#b1c795}
+[data-theme="dark"] .experience-body>p,[data-theme="dark"] .experience ul{color:#b0c0a2}
+[data-theme="dark"] .experience summary{color:#bdd49e}
+[data-theme="dark"] .filters{background:#1d2b1c;border-color:#43563a}
+[data-theme="dark"] .filters button{color:#afc69b}
+[data-theme="dark"] .filters button.active{background:#c9d9ab;color:#22351b;box-shadow:none}
+[data-theme="dark"] .services-section{background:#1d2e21}
+[data-theme="dark"] .service-card{border-color:#536b42}
+[data-theme="dark"] .fintech-note{background:#31482b40;border-color:#4e6645}
+[data-theme="dark"] .contact-section,[data-theme="dark"] .refresh-warning{background:#1b2a1c;color:#eceee4}
+[data-theme="dark"] .contact-intro>p:not(.eyebrow),[data-theme="dark"] .contact-links>span{color:#b2c59f}
+[data-theme="dark"] .email-link{border-color:#809765}
+[data-theme="dark"] .contact-tool{background:#151f16;border-color:#3a4d31}
+[data-theme="dark"] input,[data-theme="dark"] select,[data-theme="dark"] textarea{background:#1e2b1b;color:#e9f0de;border-color:#536a45}
+[data-theme="dark"] input::placeholder,[data-theme="dark"] textarea::placeholder{color:#9fb08f}
+[data-theme="dark"] .form-bottom>p,[data-theme="dark"] .preview-note{color:#a9bc96}
+[data-theme="dark"] #email-body{background:#26361f;color:#eef2e5}
+[data-theme="dark"] #email-body:focus-visible,[data-theme="dark"] #email-preview:focus-visible{outline-color:#bad29c}
+[data-theme="dark"] .toast{background:#d2e1ba;color:#24331c;box-shadow:0 5px 20px #00000030}
+@media(max-width:800px){[data-theme="dark"] .site-header nav{background:#111813;border-color:#3d5032;box-shadow:0 12px 15px #00000025}}
+@media(max-width:520px){.theme-toggle{width:34px;height:34px}.theme-glyph{width:18px;height:18px}.header-actions{gap:12px}}
+@media(prefers-reduced-motion:reduce){.theme-toggle,.theme-glyph{transition:none}}

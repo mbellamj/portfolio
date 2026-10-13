@@ -1,0 +1,608 @@
+{
+  "profile": {
+    "name": "Marco Mbella",
+    "email": "marcombella.pro@gmail.com",
+    "location": {
+      "fr": "Paris, Île-de-France",
+      "en": "Paris, Île-de-France"
+    },
+    "eyebrow": {
+      "fr": "Ingénieur logiciel · Backend & FinTech",
+      "en": "Software engineer · Backend & FinTech"
+    },
+    "bio": {
+      "fr": "Je suis Marco Mbella. Je construis des applications, connecte des systèmes et fiabilise leur déploiement. Mon parcours en design et en finance m’aide à garder l’utilisateur et ses objectifs au centre.",
+      "en": "I’m Marco Mbella. I build applications, connect systems and make deployments more reliable. My background in design and finance helps me keep users and their goals at the center."
+    },
+    "cvAsset": "assets/marco-mbella-cv-sept-2026.pdf"
+  },
+  "highlights": [
+    {
+      "id": "software",
+      "icon": "code",
+      "value": {
+        "fr": "4 ans",
+        "en": "4 years"
+      },
+      "description": {
+        "fr": [
+          "d’expérience",
+          "en ingénierie logicielle"
+        ],
+        "en": [
+          "of experience",
+          "in software engineering"
+        ]
+      }
+    },
+    {
+      "id": "finance",
+      "icon": "cash",
+      "value": {
+        "fr": "2 ans",
+        "en": "2 years"
+      },
+      "description": {
+        "fr": [
+          "de conseil",
+          "financier"
+        ],
+        "en": [
+          "of financial",
+          "advisory experience"
+        ]
+      }
+    },
+    {
+      "id": "studies",
+      "icon": "graduation",
+      "value": null,
+      "description": {
+        "fr": [
+          "Études d’ingénierie logicielle",
+          "3iL · 2021"
+        ],
+        "en": [
+          "Software engineering studies",
+          "3iL · 2021"
+        ]
+      }
+    },
+    {
+      "id": "amf",
+      "icon": "certificate",
+      "value": null,
+      "description": {
+        "fr": [
+          "Certification AMF",
+          "ES Banque · 2025"
+        ],
+        "en": [
+          "AMF certification",
+          "ES Banque · 2025"
+        ]
+      }
+    }
+  ],
+  "skills": [
+    {
+      "id": "backend",
+      "eyebrow": "01 / BACKEND",
+      "title": {
+        "fr": "API & logique métier",
+        "en": "APIs & business logic"
+      },
+      "description": {
+        "fr": "Architectures modulaires, intégrations tierces, authentification et gestion des erreurs.",
+        "en": "Modular architectures, third-party integrations, authentication and error handling."
+      },
+      "technologies": [
+        "Node.js",
+        "TypeScript",
+        "NestJS",
+        "Java",
+        "Spring Boot",
+        "Python",
+        "FastAPI"
+      ]
+    },
+    {
+      "id": "frontend",
+      "eyebrow": "02 / FRONTEND",
+      "title": {
+        "fr": "Interfaces & fullstack",
+        "en": "Interfaces & fullstack"
+      },
+      "description": {
+        "fr": "Des interfaces qui relient les besoins de l’utilisateur à la logique de l’application.",
+        "en": "Interfaces that connect user needs with the application’s underlying logic."
+      },
+      "technologies": [
+        "React",
+        "Next.js",
+        "Vue.js",
+        "Angular",
+        "TanStack Router"
+      ]
+    },
+    {
+      "id": "systems",
+      "eyebrow": "03 / SYSTEMS",
+      "title": {
+        "fr": "Architecture & événements",
+        "en": "Architecture & events"
+      },
+      "description": {
+        "fr": "Services découplés, flux asynchrones, traitements idempotents et reprise sur erreur.",
+        "en": "Decoupled services, asynchronous flows, idempotent processing and recovery."
+      },
+      "technologies": [
+        "Clean Architecture",
+        "RabbitMQ",
+        "Kafka",
+        "REST"
+      ]
+    },
+    {
+      "id": "devops",
+      "eyebrow": "04 / DELIVERY",
+      "title": {
+        "fr": "DevOps & cloud",
+        "en": "DevOps & cloud"
+      },
+      "description": {
+        "fr": "Des déploiements reproductibles, automatisés et observables, du pipeline à l’infrastructure.",
+        "en": "Reproducible, automated and observable deployments, from pipelines to infrastructure."
+      },
+      "technologies": [
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "Ansible",
+        "GitLab CI/CD",
+        "GitHub Actions",
+        "Azure · AWS · GCP"
+      ]
+    },
+    {
+      "id": "quality",
+      "eyebrow": "05 / QUALITY",
+      "title": {
+        "fr": "Tests & qualité logicielle",
+        "en": "Testing & software quality"
+      },
+      "description": {
+        "fr": "La testabilité et la fiabilité comme points d’appui pour faire évoluer un système.",
+        "en": "Testability and reliability as a foundation for evolving a system."
+      },
+      "technologies": [
+        "TDD / BDD",
+        "Jest",
+        "Pytest",
+        "Karma",
+        "Cucumber",
+        "SonarCloud",
+        "Azure Test Plan"
+      ]
+    },
+    {
+      "id": "data",
+      "eyebrow": "06 / DATA",
+      "title": {
+        "fr": "Données & persistance",
+        "en": "Data & persistence"
+      },
+      "description": {
+        "fr": "Structuration des données, requêtes, pagination et intégration avec la logique métier.",
+        "en": "Data structures, queries, pagination and integration with business logic."
+      },
+      "technologies": [
+        "SQL",
+        "PostgreSQL",
+        "Oracle",
+        "MongoDB"
+      ]
+    }
+  ],
+  "experiences": [
+    {
+      "id": "smart-engine",
+      "category": "finance",
+      "current": true,
+      "dates": {
+        "fr": "Avr. 2025 — aujourd’hui",
+        "en": "Apr. 2025 — present"
+      },
+      "location": "Paris, France",
+      "company": "Smart Engine Advisory",
+      "role": {
+        "fr": "Finance & conseil digital",
+        "en": "Finance & digital consulting"
+      },
+      "summary": {
+        "fr": "Accompagnement de particuliers, analyse de situations financières et patrimoniales, et traduction de problématiques complexes en éléments utiles à la décision.",
+        "en": "Supporting individuals, analyzing financial and wealth situations, and translating complex issues into useful information for decision-making."
+      },
+      "contributions": {
+        "fr": [
+          "Analyse des objectifs, de la situation et des contraintes du client.",
+          "Travail sur les enjeux de financement, de crédit, d’endettement, d’investissement et de structuration patrimoniale.",
+          "Analyse de données financières et vulgarisation auprès de différents interlocuteurs."
+        ],
+        "en": [
+          "Analyzing clients’ goals, financial circumstances and constraints.",
+          "Working on financing, credit, debt, investment and wealth structuring.",
+          "Analyzing financial data and explaining complex topics to different stakeholders."
+        ]
+      },
+      "technologies": [
+        {
+          "fr": "Analyse financière",
+          "en": "Financial analysis"
+        },
+        {
+          "fr": "Relation client",
+          "en": "Client relationships"
+        },
+        {
+          "fr": "Conseil digital",
+          "en": "Digital consulting"
+        }
+      ]
+    },
+    {
+      "id": "saegus",
+      "category": "engineering",
+      "current": false,
+      "dates": {
+        "fr": "Fév. — mars 2025",
+        "en": "Feb. — Mar. 2025"
+      },
+      "location": "Paris, France",
+      "company": "SAEGUS",
+      "role": {
+        "fr": "Backend Engineer · Freelance",
+        "en": "Backend Engineer · Freelance"
+      },
+      "summary": {
+        "fr": "Développement d’une application fullstack React / NestJS, avec une architecture modulaire, une authentification sécurisée et un déploiement reproductible.",
+        "en": "Developed a React / NestJS fullstack application with a modular architecture, secure authentication and reproducible deployment."
+      },
+      "contributions": {
+        "fr": [
+          "Clean Architecture pour renforcer la testabilité et la maintenabilité.",
+          "Authentification JWT et contrôle d’accès dynamique via CASL.",
+          "Validation stricte des API et gestion centralisée des erreurs.",
+          "Docker / Docker Compose, pagination, optimisation des requêtes et tests unitaires."
+        ],
+        "en": [
+          "Clean Architecture to improve testability and maintainability.",
+          "JWT authentication and dynamic access control through CASL.",
+          "Strict API validation and centralized error handling.",
+          "Docker / Docker Compose, pagination, query optimization and unit tests."
+        ]
+      },
+      "technologies": [
+        {
+          "fr": "React",
+          "en": "React"
+        },
+        {
+          "fr": "NestJS",
+          "en": "NestJS"
+        },
+        {
+          "fr": "JWT · CASL",
+          "en": "JWT · CASL"
+        },
+        {
+          "fr": "Docker",
+          "en": "Docker"
+        }
+      ]
+    },
+    {
+      "id": "auchan",
+      "category": "engineering",
+      "current": false,
+      "dates": {
+        "fr": "Jan. — oct. 2024",
+        "en": "Jan. — Oct. 2024"
+      },
+      "location": "Lille, France",
+      "company": "Akkodis — Auchan",
+      "role": {
+        "fr": "Backend / Fullstack Engineer · DevOps",
+        "en": "Backend / Fullstack Engineer · DevOps"
+      },
+      "summary": {
+        "fr": "Industrialisation des processus de build, de test et de déploiement, avec un travail sur la reproductibilité des releases et la fiabilité opérationnelle.",
+        "en": "Industrialized build, testing and deployment processes, with a focus on reproducible releases and operational reliability."
+      },
+      "contributions": {
+        "fr": [
+          "Pipelines CI/CD et automatisation sur plusieurs environnements.",
+          "Conteneurisation Docker et orchestration Kubernetes.",
+          "Observabilité, monitoring, gestion des incidents et analyse des causes racines.",
+          "Automatisation des opérations et contribution aux contrôles des déploiements."
+        ],
+        "en": [
+          "CI/CD pipelines and automation across multiple environments.",
+          "Docker containerization and Kubernetes orchestration.",
+          "Observability, monitoring, incident management and root-cause analysis.",
+          "Operational automation and contributions to deployment controls."
+        ]
+      },
+      "technologies": [
+        {
+          "fr": "CI/CD",
+          "en": "CI/CD"
+        },
+        {
+          "fr": "Docker",
+          "en": "Docker"
+        },
+        {
+          "fr": "Kubernetes",
+          "en": "Kubernetes"
+        },
+        {
+          "fr": "Observabilité",
+          "en": "Observability"
+        }
+      ]
+    },
+    {
+      "id": "norauto",
+      "category": "engineering",
+      "current": false,
+      "dates": {
+        "fr": "Oct. 2021 — déc. 2023",
+        "en": "Oct. 2021 — Dec. 2023"
+      },
+      "location": "Villeneuve-d’Ascq, France",
+      "company": "Norauto International",
+      "role": {
+        "fr": "Senior Backend Engineer · Assistant Tech Lead",
+        "en": "Senior Backend Engineer · Assistant Tech Lead"
+      },
+      "summary": {
+        "fr": "Conception d’API backend et de flux asynchrones pour connecter des systèmes et fiabiliser les traitements métier distribués.",
+        "en": "Designed backend APIs and asynchronous flows to connect systems and make distributed business processes more reliable."
+      },
+      "contributions": {
+        "fr": [
+          "API Node.js / NestJS et services indépendants dans une architecture modulaire.",
+          "Flux événementiels avec RabbitMQ et workflows métier à plusieurs étapes.",
+          "États, reprises, idempotence, retries, timeouts et traçabilité.",
+          "Intégrations REST de fournisseurs tiers et collaboration avec les équipes métier."
+        ],
+        "en": [
+          "Node.js / NestJS APIs and independent services within a modular architecture.",
+          "Event-driven flows with RabbitMQ and multi-step business workflows.",
+          "State management, recovery, idempotency, retries, timeouts and traceability.",
+          "Third-party REST integrations and collaboration with business teams."
+        ]
+      },
+      "technologies": [
+        {
+          "fr": "Node.js",
+          "en": "Node.js"
+        },
+        {
+          "fr": "NestJS",
+          "en": "NestJS"
+        },
+        {
+          "fr": "RabbitMQ",
+          "en": "RabbitMQ"
+        },
+        {
+          "fr": "Clean Architecture",
+          "en": "Clean Architecture"
+        }
+      ]
+    },
+    {
+      "id": "orange",
+      "category": "engineering",
+      "current": false,
+      "dates": {
+        "fr": "Fév. — août 2021",
+        "en": "Feb. — Aug. 2021"
+      },
+      "location": "Villeneuve-d’Ascq, France",
+      "company": "Orange",
+      "role": {
+        "fr": "Cloud Engineer",
+        "en": "Cloud Engineer"
+      },
+      "summary": {
+        "fr": "Migration d’une application legacy vers une architecture cloud native, avec passage d’un monolithe à des microservices.",
+        "en": "Migrated a legacy application to a cloud-native architecture, moving from a monolith to microservices."
+      },
+      "contributions": {
+        "fr": [
+          "PaaS / Cloud Foundry et principes Twelve-Factor Apps.",
+          "Infrastructure as Code avec Terraform et pipelines CI/CD.",
+          "Centralisation des logs et monitoring avec Kibana."
+        ],
+        "en": [
+          "PaaS / Cloud Foundry and Twelve-Factor App principles.",
+          "Infrastructure as Code with Terraform and CI/CD pipelines.",
+          "Centralized logs and monitoring with Kibana."
+        ]
+      },
+      "technologies": [
+        {
+          "fr": "Cloud Foundry",
+          "en": "Cloud Foundry"
+        },
+        {
+          "fr": "Terraform",
+          "en": "Terraform"
+        },
+        {
+          "fr": "CI/CD",
+          "en": "CI/CD"
+        },
+        {
+          "fr": "Kibana",
+          "en": "Kibana"
+        }
+      ]
+    }
+  ],
+  "freelance": [
+    {
+      "id": "web",
+      "icon": "design",
+      "eyebrow": "01",
+      "title": {
+        "fr": "Design web",
+        "en": "Web design"
+      },
+      "description": {
+        "fr": "Concevoir l’apparence et les interfaces de sites web à partir des besoins du client.",
+        "en": "Designing the look and interfaces of websites around a client’s needs."
+      }
+    },
+    {
+      "id": "mobile",
+      "icon": "mobile",
+      "eyebrow": "02",
+      "title": {
+        "fr": "Design d’applications mobiles",
+        "en": "Mobile application design"
+      },
+      "description": {
+        "fr": "Donner forme aux écrans et à l’expérience visuelle d’une application.",
+        "en": "Shaping the screens and visual experience of an application."
+      }
+    },
+    {
+      "id": "advertising",
+      "icon": "spark",
+      "eyebrow": "03",
+      "title": {
+        "fr": "Publicité & templates",
+        "en": "Advertising & templates"
+      },
+      "description": {
+        "fr": "Créer des visuels publicitaires et des modèles de prospectus pour les communications des clients.",
+        "en": "Creating advertising visuals and flyer templates for clients’ communications."
+      }
+    }
+  ],
+  "services": [
+    {
+      "id": "software",
+      "eyebrow": "01 / SOFTWARE",
+      "title": {
+        "fr": "Construire & connecter",
+        "en": "Build & connect"
+      },
+      "description": {
+        "fr": "Développement backend ou fullstack, intégrations API, architecture et automatisation des déploiements.",
+        "en": "Backend or fullstack development, API integrations, architecture and deployment automation."
+      },
+      "cta": {
+        "fr": "Parler d’un projet logiciel",
+        "en": "Discuss a software project"
+      }
+    },
+    {
+      "id": "design",
+      "eyebrow": "02 / DESIGN",
+      "title": {
+        "fr": "Donner forme à une idée",
+        "en": "Give an idea its shape"
+      },
+      "description": {
+        "fr": "Design d’interfaces web et mobiles, supports publicitaires et templates adaptés à un besoin de communication.",
+        "en": "Web and mobile interface design, advertising materials and templates adapted to a communication need."
+      },
+      "cta": {
+        "fr": "Parler d’un besoin de design",
+        "en": "Discuss a design need"
+      }
+    },
+    {
+      "id": "finance",
+      "eyebrow": "03 / FINANCE",
+      "title": {
+        "fr": "Clarifier les décisions",
+        "en": "Clarify your decisions"
+      },
+      "description": {
+        "fr": "Accompagnement de particuliers pour organiser leurs finances, comprendre leurs objectifs et discuter de leurs choix d’investissement.",
+        "en": "Supporting individuals in organizing their finances, understanding their goals and discussing investment choices."
+      },
+      "cta": {
+        "fr": "Échanger sur vos objectifs",
+        "en": "Discuss your goals"
+      }
+    }
+  ],
+  "education": [
+    {
+      "id": "amf",
+      "dates": {
+        "fr": "Nov. 2024 — fév. 2025",
+        "en": "Nov. 2024 — Feb. 2025"
+      },
+      "title": {
+        "fr": "Certification AMF",
+        "en": "AMF certification"
+      },
+      "description": {
+        "fr": [
+          "ES Banque · Paris"
+        ],
+        "en": [
+          "ES Banque · Paris"
+        ]
+      }
+    },
+    {
+      "id": "engineering",
+      "dates": {
+        "fr": "Sept. 2018 — oct. 2021",
+        "en": "Sept. 2018 — Oct. 2021"
+      },
+      "title": {
+        "fr": "Diplôme d’ingénieur",
+        "en": "Engineering degree"
+      },
+      "description": {
+        "fr": [
+          "Informatique & systèmes d’information",
+          "3iL · Limoges"
+        ],
+        "en": [
+          "Computer science & information systems",
+          "3iL · Limoges"
+        ]
+      }
+    },
+    {
+      "id": "master",
+      "dates": {
+        "fr": "Jan. 2019 — juin 2021",
+        "en": "Jan. 2019 — June 2021"
+      },
+      "title": {
+        "fr": "Master M.A.E.",
+        "en": "Master M.A.E."
+      },
+      "description": {
+        "fr": [
+          "IAE · Université de Limoges"
+        ],
+        "en": [
+          "IAE · Université de Limoges"
+        ]
+      }
+    }
+  ]
+}

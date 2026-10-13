@@ -1,0 +1,463 @@
+{
+  "skip": [
+    {
+      "type": "text",
+      "value": "Skip to content"
+    }
+  ],
+  "brandSub": [
+    {
+      "type": "text",
+      "value": "SOFTWARE · DESIGN · FINANCE"
+    }
+  ],
+  "navExpertise": [
+    {
+      "type": "text",
+      "value": "Expertise"
+    }
+  ],
+  "navExperience": [
+    {
+      "type": "text",
+      "value": "Experience"
+    }
+  ],
+  "navServices": [
+    {
+      "type": "text",
+      "value": "Services"
+    }
+  ],
+  "navContact": [
+    {
+      "type": "text",
+      "value": "Contact"
+    }
+  ],
+  "menu": [
+    {
+      "type": "text",
+      "value": "Menu"
+    }
+  ],
+  "headerCta": [
+    {
+      "type": "text",
+      "value": "Let’s talk"
+    }
+  ],
+  "heroTitle1": [
+    {
+      "type": "text",
+      "value": "Engineering."
+    }
+  ],
+  "heroTitle2": [
+    {
+      "type": "text",
+      "value": "Business sense."
+    }
+  ],
+  "heroCta": [
+    {
+      "type": "text",
+      "value": "Let’s discuss your project"
+    }
+  ],
+  "downloadCv": [
+    {
+      "type": "text",
+      "value": "Download my résumé"
+    }
+  ],
+  "boardEyebrow": [
+    {
+      "type": "text",
+      "value": "THINKING IN SYSTEMS"
+    }
+  ],
+  "boardTitle": [
+    {
+      "type": "text",
+      "value": "Connecting the right building blocks."
+    }
+  ],
+  "apiSub": [
+    {
+      "type": "text",
+      "value": "REST · validation · authentication"
+    }
+  ],
+  "serviceNode": [
+    {
+      "type": "text",
+      "value": "Business services"
+    }
+  ],
+  "eventsNode": [
+    {
+      "type": "text",
+      "value": "Events"
+    }
+  ],
+  "dataNode": [
+    {
+      "type": "text",
+      "value": "Data"
+    }
+  ],
+  "boardCaption": [
+    {
+      "type": "text",
+      "value": "Illustrative architecture · skills from my résumé"
+    }
+  ],
+  "expertiseEyebrow": [
+    {
+      "type": "text",
+      "value": "01 / My technical foundations"
+    }
+  ],
+  "expertiseTitle": [
+    {
+      "type": "text",
+      "value": "From backend "
+    },
+    {
+      "type": "emphasis",
+      "value": "to production."
+    }
+  ],
+  "expertiseIntro": [
+    {
+      "type": "text",
+      "value": "Design, integrate, test and deliver: a technical foundation for robust, maintainable applications."
+    }
+  ],
+  "experienceEyebrow": [
+    {
+      "type": "text",
+      "value": "02 / My experience"
+    }
+  ],
+  "experienceTitle": [
+    {
+      "type": "text",
+      "value": "Real systems."
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "emphasis",
+      "value": "Concrete challenges."
+    }
+  ],
+  "filterAll": [
+    {
+      "type": "text",
+      "value": "All"
+    }
+  ],
+  "filterEngineering": [
+    {
+      "type": "text",
+      "value": "Engineering"
+    }
+  ],
+  "filterFinance": [
+    {
+      "type": "text",
+      "value": "Finance"
+    }
+  ],
+  "current": [
+    {
+      "type": "text",
+      "value": "CURRENT"
+    }
+  ],
+  "missionDetails": [
+    {
+      "type": "text",
+      "value": "Explore contributions"
+    }
+  ],
+  "freelanceEyebrow": [
+    {
+      "type": "text",
+      "value": "03 / The early freelance work"
+    }
+  ],
+  "freelanceTitle": [
+    {
+      "type": "text",
+      "value": "Before graduation,"
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "emphasis",
+      "value": "already working with clients."
+    }
+  ],
+  "freelanceIntro": [
+    {
+      "type": "text",
+      "value": "I started freelancing on Upwork before finishing my studies. Web and mobile design, advertising materials and custom templates: my first experiences turning a client request into a concrete deliverable."
+    }
+  ],
+  "servicesEyebrow": [
+    {
+      "type": "text",
+      "value": "04 / How I can contribute"
+    }
+  ],
+  "servicesTitle": [
+    {
+      "type": "text",
+      "value": "Three perspectives."
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "emphasis",
+      "value": "The same focus on clarity."
+    }
+  ],
+  "servicesIntro": [
+    {
+      "type": "text",
+      "value": "From technical architecture to interfaces, and from data to decisions: I enjoy making things more structured and easier to understand."
+    }
+  ],
+  "fintechTitle": [
+    {
+      "type": "text",
+      "value": "Two perspectives that matter in FinTech."
+    }
+  ],
+  "fintechCopy": [
+    {
+      "type": "text",
+      "value": "Engineering gives me the tools to build. Finance and client relationships help me understand the goals, constraints and uses behind the software."
+    }
+  ],
+  "educationEyebrow": [
+    {
+      "type": "text",
+      "value": "05 / Education & certification"
+    }
+  ],
+  "educationTitle": [
+    {
+      "type": "text",
+      "value": "A technical foundation."
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "emphasis",
+      "value": "A business perspective."
+    }
+  ],
+  "contactEyebrow": [
+    {
+      "type": "text",
+      "value": "06 / The next step is a conversation"
+    }
+  ],
+  "contactTitle": [
+    {
+      "type": "text",
+      "value": "Have a project?"
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "emphasis",
+      "value": "Let’s talk."
+    }
+  ],
+  "contactIntro": [
+    {
+      "type": "text",
+      "value": "An engineering assignment, an interface to design or financial goals to clarify: tell me where you want to go."
+    }
+  ],
+  "nameLabel": [
+    {
+      "type": "text",
+      "value": "Your name"
+    }
+  ],
+  "typeLabel": [
+    {
+      "type": "text",
+      "value": "The subject"
+    }
+  ],
+  "typeSoftware": [
+    {
+      "type": "text",
+      "value": "Software engineering"
+    }
+  ],
+  "typeDesign": [
+    {
+      "type": "text",
+      "value": "Design & communication"
+    }
+  ],
+  "typeFinance": [
+    {
+      "type": "text",
+      "value": "Financial support"
+    }
+  ],
+  "typeOther": [
+    {
+      "type": "text",
+      "value": "Something else"
+    }
+  ],
+  "messageLabel": [
+    {
+      "type": "text",
+      "value": "Your idea or need"
+    }
+  ],
+  "draftHint": [
+    {
+      "type": "text",
+      "value": "Prepare a draft to open"
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "text",
+      "value": "in your email application."
+    }
+  ],
+  "prepareEmail": [
+    {
+      "type": "text",
+      "value": "Prepare the email"
+    }
+  ],
+  "draftReady": [
+    {
+      "type": "text",
+      "value": "Your draft is ready"
+    }
+  ],
+  "openEmail": [
+    {
+      "type": "text",
+      "value": "Open email application"
+    }
+  ],
+  "copyEmail": [
+    {
+      "type": "text",
+      "value": "Copy"
+    }
+  ],
+  "editEmail": [
+    {
+      "type": "text",
+      "value": "Edit"
+    }
+  ],
+  "emailNote": [
+    {
+      "type": "text",
+      "value": "This site sends no messages. You can review and send the draft in your email application."
+    }
+  ],
+  "footerNote": [
+    {
+      "type": "text",
+      "value": "The rigor of code."
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "text",
+      "value": "The sensitivity of design. A business perspective."
+    }
+  ],
+  "backTop": [
+    {
+      "type": "text",
+      "value": "Back to top"
+    }
+  ],
+  "footerStatus": [
+    {
+      "type": "text",
+      "value": "Personal portfolio"
+    }
+  ],
+  "home": [
+    {
+      "type": "text",
+      "value": "Marco Mbella, home"
+    }
+  ],
+  "nav": [
+    {
+      "type": "text",
+      "value": "Main navigation"
+    }
+  ],
+  "filterLabel": [
+    {
+      "type": "text",
+      "value": "Filter experience"
+    }
+  ],
+  "namePlaceholder": [
+    {
+      "type": "text",
+      "value": "Name or first name"
+    }
+  ],
+  "messagePlaceholder": [
+    {
+      "type": "text",
+      "value": "The context, the goal and what you would like to build…"
+    }
+  ],
+  "spokenLanguages": [
+    {
+      "type": "text",
+      "value": "French & English"
+    }
+  ],
+  "themeLabel": [
+    {
+      "type": "text",
+      "value": "Dark mode"
+    }
+  ],
+  "themeEnableLight": [
+    {
+      "type": "text",
+      "value": "Switch to light mode"
+    }
+  ],
+  "themeEnableDark": [
+    {
+      "type": "text",
+      "value": "Switch to dark mode"
+    }
+  ]
+}

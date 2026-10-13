@@ -1,0 +1,463 @@
+{
+  "skip": [
+    {
+      "type": "text",
+      "value": "Aller au contenu"
+    }
+  ],
+  "brandSub": [
+    {
+      "type": "text",
+      "value": "SOFTWARE · DESIGN · FINANCE"
+    }
+  ],
+  "navExpertise": [
+    {
+      "type": "text",
+      "value": "Expertise"
+    }
+  ],
+  "navExperience": [
+    {
+      "type": "text",
+      "value": "Parcours"
+    }
+  ],
+  "navServices": [
+    {
+      "type": "text",
+      "value": "Services"
+    }
+  ],
+  "navContact": [
+    {
+      "type": "text",
+      "value": "Contact"
+    }
+  ],
+  "menu": [
+    {
+      "type": "text",
+      "value": "Menu"
+    }
+  ],
+  "headerCta": [
+    {
+      "type": "text",
+      "value": "Échangeons"
+    }
+  ],
+  "heroTitle1": [
+    {
+      "type": "text",
+      "value": "La technique."
+    }
+  ],
+  "heroTitle2": [
+    {
+      "type": "text",
+      "value": "Le sens métier."
+    }
+  ],
+  "heroCta": [
+    {
+      "type": "text",
+      "value": "Parlons de votre projet"
+    }
+  ],
+  "downloadCv": [
+    {
+      "type": "text",
+      "value": "Télécharger mon CV"
+    }
+  ],
+  "boardEyebrow": [
+    {
+      "type": "text",
+      "value": "UNE PENSÉE SYSTÈME"
+    }
+  ],
+  "boardTitle": [
+    {
+      "type": "text",
+      "value": "Relier les bonnes briques."
+    }
+  ],
+  "apiSub": [
+    {
+      "type": "text",
+      "value": "REST · validation · authentification"
+    }
+  ],
+  "serviceNode": [
+    {
+      "type": "text",
+      "value": "Services métier"
+    }
+  ],
+  "eventsNode": [
+    {
+      "type": "text",
+      "value": "Événements"
+    }
+  ],
+  "dataNode": [
+    {
+      "type": "text",
+      "value": "Données"
+    }
+  ],
+  "boardCaption": [
+    {
+      "type": "text",
+      "value": "Architecture illustrative · compétences issues du CV"
+    }
+  ],
+  "expertiseEyebrow": [
+    {
+      "type": "text",
+      "value": "01 / Ce que je maîtrise"
+    }
+  ],
+  "expertiseTitle": [
+    {
+      "type": "text",
+      "value": "Du backend "
+    },
+    {
+      "type": "emphasis",
+      "value": "à la mise en production."
+    }
+  ],
+  "expertiseIntro": [
+    {
+      "type": "text",
+      "value": "Concevoir, intégrer, tester et livrer : un socle technique pour des applications robustes et maintenables."
+    }
+  ],
+  "experienceEyebrow": [
+    {
+      "type": "text",
+      "value": "02 / Le parcours"
+    }
+  ],
+  "experienceTitle": [
+    {
+      "type": "text",
+      "value": "Des systèmes réels."
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "emphasis",
+      "value": "Des enjeux concrets."
+    }
+  ],
+  "filterAll": [
+    {
+      "type": "text",
+      "value": "Tout"
+    }
+  ],
+  "filterEngineering": [
+    {
+      "type": "text",
+      "value": "Ingénierie"
+    }
+  ],
+  "filterFinance": [
+    {
+      "type": "text",
+      "value": "Finance"
+    }
+  ],
+  "current": [
+    {
+      "type": "text",
+      "value": "ACTUELLEMENT"
+    }
+  ],
+  "missionDetails": [
+    {
+      "type": "text",
+      "value": "Voir les contributions"
+    }
+  ],
+  "freelanceEyebrow": [
+    {
+      "type": "text",
+      "value": "03 / Les premières missions"
+    }
+  ],
+  "freelanceTitle": [
+    {
+      "type": "text",
+      "value": "Avant le diplôme,"
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "emphasis",
+      "value": "déjà des clients."
+    }
+  ],
+  "freelanceIntro": [
+    {
+      "type": "text",
+      "value": "J’ai commencé à travailler en freelance sur Upwork avant la fin de mes études. Des missions de design web et mobile, mais aussi des supports publicitaires et des templates personnalisés : mes premiers pas pour transformer une demande en un livrable concret."
+    }
+  ],
+  "servicesEyebrow": [
+    {
+      "type": "text",
+      "value": "04 / Ce que je peux apporter"
+    }
+  ],
+  "servicesTitle": [
+    {
+      "type": "text",
+      "value": "Trois regards."
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "emphasis",
+      "value": "Un même souci de clarté."
+    }
+  ],
+  "servicesIntro": [
+    {
+      "type": "text",
+      "value": "De l’architecture technique à l’interface, et des données à la décision : j’aime rendre les choses plus structurées et plus compréhensibles."
+    }
+  ],
+  "fintechTitle": [
+    {
+      "type": "text",
+      "value": "Un double regard utile à la FinTech."
+    }
+  ],
+  "fintechCopy": [
+    {
+      "type": "text",
+      "value": "L’ingénierie me donne les outils pour construire. La finance et la relation client m’aident à comprendre les objectifs, les contraintes et les usages derrière le logiciel."
+    }
+  ],
+  "educationEyebrow": [
+    {
+      "type": "text",
+      "value": "05 / Formation & certification"
+    }
+  ],
+  "educationTitle": [
+    {
+      "type": "text",
+      "value": "Une base technique."
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "emphasis",
+      "value": "Une ouverture business."
+    }
+  ],
+  "contactEyebrow": [
+    {
+      "type": "text",
+      "value": "06 / La suite commence par un échange"
+    }
+  ],
+  "contactTitle": [
+    {
+      "type": "text",
+      "value": "Un projet ?"
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "emphasis",
+      "value": "Parlons-en."
+    }
+  ],
+  "contactIntro": [
+    {
+      "type": "text",
+      "value": "Une mission d’ingénierie, une interface à concevoir ou des objectifs financiers à clarifier : dites-moi où vous voulez aller."
+    }
+  ],
+  "nameLabel": [
+    {
+      "type": "text",
+      "value": "Votre nom"
+    }
+  ],
+  "typeLabel": [
+    {
+      "type": "text",
+      "value": "Le sujet"
+    }
+  ],
+  "typeSoftware": [
+    {
+      "type": "text",
+      "value": "Ingénierie logicielle"
+    }
+  ],
+  "typeDesign": [
+    {
+      "type": "text",
+      "value": "Design & communication"
+    }
+  ],
+  "typeFinance": [
+    {
+      "type": "text",
+      "value": "Accompagnement financier"
+    }
+  ],
+  "typeOther": [
+    {
+      "type": "text",
+      "value": "Autre échange"
+    }
+  ],
+  "messageLabel": [
+    {
+      "type": "text",
+      "value": "Votre idée ou votre besoin"
+    }
+  ],
+  "draftHint": [
+    {
+      "type": "text",
+      "value": "Prépare un brouillon à ouvrir"
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "text",
+      "value": "dans votre messagerie."
+    }
+  ],
+  "prepareEmail": [
+    {
+      "type": "text",
+      "value": "Préparer l’email"
+    }
+  ],
+  "draftReady": [
+    {
+      "type": "text",
+      "value": "Votre brouillon est prêt"
+    }
+  ],
+  "openEmail": [
+    {
+      "type": "text",
+      "value": "Ouvrir la messagerie"
+    }
+  ],
+  "copyEmail": [
+    {
+      "type": "text",
+      "value": "Copier"
+    }
+  ],
+  "editEmail": [
+    {
+      "type": "text",
+      "value": "Modifier"
+    }
+  ],
+  "emailNote": [
+    {
+      "type": "text",
+      "value": "Aucun message n’est envoyé par ce site. Vous pouvez relire et envoyer le brouillon dans votre messagerie."
+    }
+  ],
+  "footerNote": [
+    {
+      "type": "text",
+      "value": "La rigueur du code."
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "text",
+      "value": "La sensibilité du design. Le regard métier."
+    }
+  ],
+  "backTop": [
+    {
+      "type": "text",
+      "value": "Retour en haut"
+    }
+  ],
+  "footerStatus": [
+    {
+      "type": "text",
+      "value": "Portfolio personnel"
+    }
+  ],
+  "home": [
+    {
+      "type": "text",
+      "value": "Marco Mbella, accueil"
+    }
+  ],
+  "nav": [
+    {
+      "type": "text",
+      "value": "Navigation principale"
+    }
+  ],
+  "filterLabel": [
+    {
+      "type": "text",
+      "value": "Filtrer les expériences"
+    }
+  ],
+  "namePlaceholder": [
+    {
+      "type": "text",
+      "value": "Nom ou prénom"
+    }
+  ],
+  "messagePlaceholder": [
+    {
+      "type": "text",
+      "value": "Le contexte, l’objectif et ce que vous souhaitez construire…"
+    }
+  ],
+  "spokenLanguages": [
+    {
+      "type": "text",
+      "value": "Français & anglais"
+    }
+  ],
+  "themeLabel": [
+    {
+      "type": "text",
+      "value": "Mode sombre"
+    }
+  ],
+  "themeEnableLight": [
+    {
+      "type": "text",
+      "value": "Activer le mode clair"
+    }
+  ],
+  "themeEnableDark": [
+    {
+      "type": "text",
+      "value": "Activer le mode sombre"
+    }
+  ]
+}
