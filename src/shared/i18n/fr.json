@@ -8,7 +8,7 @@
   "brandSub": [
     {
       "type": "text",
-      "value": "SOFTWARE · DESIGN · FINANCE"
+      "value": "API · SOLUTIONS · FINTECH"
     }
   ],
   "navExpertise": [
@@ -56,7 +56,7 @@
   "heroTitle2": [
     {
       "type": "text",
-      "value": "Le sens métier."
+      "value": "Au service de la finance."
     }
   ],
   "heroCta": [
@@ -231,19 +231,19 @@
   "servicesIntro": [
     {
       "type": "text",
-      "value": "De l’architecture technique à l’interface, et des données à la décision : j’aime rendre les choses plus structurées et plus compréhensibles."
+      "value": "Comprendre le besoin, connecter les systèmes et expliquer les choix : un même fil conducteur entre mes expériences techniques et financières."
     }
   ],
   "fintechTitle": [
     {
       "type": "text",
-      "value": "Un double regard utile à la FinTech."
+      "value": "Relier la technique, la finance et le client."
     }
   ],
   "fintechCopy": [
     {
       "type": "text",
-      "value": "L’ingénierie me donne les outils pour construire. La finance et la relation client m’aident à comprendre les objectifs, les contraintes et les usages derrière le logiciel."
+      "value": "Mon expérience en backend et DevOps me permet de comprendre les systèmes et les intégrations. Le conseil financier et la relation client m’aident à préciser les besoins et à expliquer les solutions. Je souhaite réunir ces compétences dans un rôle de Solutions Engineer ou de consultant en intégration FinTech."
     }
   ],
   "educationEyebrow": [
@@ -287,7 +287,7 @@
   "contactIntro": [
     {
       "type": "text",
-      "value": "Une mission d’ingénierie, une interface à concevoir ou des objectifs financiers à clarifier : dites-moi où vous voulez aller."
+      "value": "Une intégration API, un projet FinTech ou une opportunité de Solutions Engineer : échangeons sur vos besoins."
     }
   ],
   "nameLabel": [
@@ -391,7 +391,7 @@
     },
     {
       "type": "text",
-      "value": "La sensibilité du design. Le regard métier."
+      "value": "Le regard financier. La relation client."
     }
   ],
   "backTop": [

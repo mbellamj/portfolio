@@ -7,14 +7,14 @@
       "en": "Paris, Île-de-France"
     },
     "eyebrow": {
-      "fr": "Ingénieur logiciel · Backend & FinTech",
-      "en": "Software engineer · Backend & FinTech"
+      "fr": "Ingénieur logiciel · API & solutions FinTech",
+      "en": "Software engineer · APIs & FinTech solutions"
     },
     "bio": {
-      "fr": "Je suis Marco Mbella. Je construis des applications, connecte des systèmes et fiabilise leur déploiement. Mon parcours en design et en finance m’aide à garder l’utilisateur et ses objectifs au centre.",
-      "en": "I’m Marco Mbella. I build applications, connect systems and make deployments more reliable. My background in design and finance helps me keep users and their goals at the center."
+      "fr": "Je suis Marco Mbella, ingénieur logiciel avec une expérience en conseil financier. Je relie les besoins métier, les intégrations API et la relation client. Mon objectif : accompagner les équipes commerciales et techniques dans les solutions FinTech.",
+      "en": "I’m Marco Mbella, a software engineer with experience in financial advisory. I connect business needs, API integrations and client relationships. My goal is to support sales and engineering teams working on FinTech solutions."
     },
-    "cvAsset": "assets/marco-mbella-cv-sept-2026.pdf"
+    "cvAsset": "assets/marco-mbella-cv-solutions-fintech.pdf"
   },
   "highlights": [
     {

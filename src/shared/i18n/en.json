@@ -8,7 +8,7 @@
   "brandSub": [
     {
       "type": "text",
-      "value": "SOFTWARE · DESIGN · FINANCE"
+      "value": "APIs · SOLUTIONS · FINTECH"
     }
   ],
   "navExpertise": [
@@ -56,7 +56,7 @@
   "heroTitle2": [
     {
       "type": "text",
-      "value": "Business sense."
+      "value": "For financial services."
     }
   ],
   "heroCta": [
@@ -231,19 +231,19 @@
   "servicesIntro": [
     {
       "type": "text",
-      "value": "From technical architecture to interfaces, and from data to decisions: I enjoy making things more structured and easier to understand."
+      "value": "Understand the need, connect systems and explain the choices: a consistent approach across my engineering and financial experience."
     }
   ],
   "fintechTitle": [
     {
       "type": "text",
-      "value": "Two perspectives that matter in FinTech."
+      "value": "Connecting technology, finance and clients."
     }
   ],
   "fintechCopy": [
     {
       "type": "text",
-      "value": "Engineering gives me the tools to build. Finance and client relationships help me understand the goals, constraints and uses behind the software."
+      "value": "My backend and DevOps experience helps me understand systems and integrations. Financial advisory and client work help me clarify requirements and explain solutions. I aim to combine these skills in a FinTech Solutions Engineer or implementation consulting role."
     }
   ],
   "educationEyebrow": [
@@ -287,7 +287,7 @@
   "contactIntro": [
     {
       "type": "text",
-      "value": "An engineering assignment, an interface to design or financial goals to clarify: tell me where you want to go."
+      "value": "An API integration, a FinTech project or a Solutions Engineer opportunity: let’s discuss your needs."
     }
   ],
   "nameLabel": [
@@ -391,7 +391,7 @@
     },
     {
       "type": "text",
-      "value": "The sensitivity of design. A business perspective."
+      "value": "Financial insight. Client understanding."
     }
   ],
   "backTop": [
