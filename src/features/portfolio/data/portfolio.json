@@ -110,19 +110,21 @@
       "id": "frontend",
       "eyebrow": "02 / FRONTEND",
       "title": {
-        "fr": "Interfaces & fullstack",
-        "en": "Interfaces & fullstack"
+        "fr": "Interfaces web & mobile",
+        "en": "Web & mobile interfaces"
       },
       "description": {
-        "fr": "Des interfaces qui relient les besoins de l’utilisateur à la logique de l’application.",
-        "en": "Interfaces that connect user needs with the application’s underlying logic."
+        "fr": "Interfaces web connectées à la logique de l’application. Plusieurs projets mobiles personnels développés avec Expo et React Native.",
+        "en": "Web interfaces connected to application logic. Several personal mobile projects developed with Expo and React Native."
       },
       "technologies": [
         "React",
         "Next.js",
         "Vue.js",
         "Angular",
-        "TanStack Router"
+        "TanStack Router",
+        "React Native",
+        "Expo"
       ]
     },
     {
@@ -193,14 +195,15 @@
         "en": "Data & persistence"
       },
       "description": {
-        "fr": "Structuration des données, requêtes, pagination et intégration avec la logique métier.",
-        "en": "Data structures, queries, pagination and integration with business logic."
+        "fr": "Structuration des données, requêtes et pagination. Redis utilisé en production pour les sessions et le cache.",
+        "en": "Data structures, queries and pagination. Redis used in production for sessions and caching."
       },
       "technologies": [
         "SQL",
         "PostgreSQL",
         "Oracle",
-        "MongoDB"
+        "MongoDB",
+        "Redis"
       ]
     }
   ],
@@ -375,13 +378,15 @@
           "API Node.js / NestJS et services indépendants dans une architecture modulaire.",
           "Flux événementiels avec RabbitMQ et workflows métier à plusieurs étapes.",
           "États, reprises, idempotence, retries, timeouts et traçabilité.",
-          "Intégrations REST de fournisseurs tiers et collaboration avec les équipes métier."
+          "Intégrations REST de fournisseurs tiers et collaboration avec les équipes métier.",
+          "Utilisation de Redis en production pour la gestion des sessions et la mise en cache de données."
         ],
         "en": [
           "Node.js / NestJS APIs and independent services within a modular architecture.",
           "Event-driven flows with RabbitMQ and multi-step business workflows.",
           "State management, recovery, idempotency, retries, timeouts and traceability.",
-          "Third-party REST integrations and collaboration with business teams."
+          "Third-party REST integrations and collaboration with business teams.",
+          "Used Redis in production for session management and data caching."
         ]
       },
       "technologies": [
@@ -400,6 +405,10 @@
         {
           "fr": "Clean Architecture",
           "en": "Clean Architecture"
+        },
+        {
+          "fr": "Redis",
+          "en": "Redis"
         }
       ]
     },
