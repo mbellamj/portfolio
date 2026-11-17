@@ -1,9 +1,9 @@
 import type { Locale } from '@/shared/i18n/types';
-export type ContactType = 'software' | 'design' | 'finance' | 'other';
+export type ContactType = 'software' | 'fintech' | 'automation' | 'other';
 export interface ContactDraftInput { name: string; type: ContactType; message: string }
 const labels = {
-  fr: { software: 'Projet logiciel', design: 'Design & communication', finance: 'Accompagnement financier', other: 'Prise de contact' },
-  en: { software: 'Software project', design: 'Design & communication', finance: 'Financial support', other: 'Getting in touch' },
+  fr: { software: 'Projet logiciel', fintech: 'Intégration FinTech', automation: 'Automatisation des processus', other: 'Recrutement & collaboration' },
+  en: { software: 'Software engineering', fintech: 'FinTech integration', automation: 'Business process automation', other: 'Recruitment & collaboration' },
 };
 export function buildContactEmail(locale: Locale, input: ContactDraftInput, recipient: string, recipientName = 'Marco') {
   const name = input.name.trim(), message = input.message.trim();

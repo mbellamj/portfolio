@@ -2,6 +2,7 @@ import { Copy } from '@/shared/i18n/Copy';
 import { useI18n } from '@/shared/i18n/I18nProvider';
 import type { Portfolio, ServiceId } from '../data/schema';
 import { SectionHeading } from './SectionHeading';
+
 export function ServicesSection({ items, onSelect }: { items: Portfolio['services']; onSelect: (id: ServiceId) => void }) {
   const { locale } = useI18n();
   return <section className="section services-section" id="services" aria-labelledby="services-title"><div className="wrap">

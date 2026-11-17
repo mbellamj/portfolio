@@ -26,12 +26,8 @@ export const portfolioSchema = z.object({
     dates: localizedText, location: z.string(), company: z.string(), role: localizedText,
     summary: localizedText, contributions: localizedLines, technologies: z.array(localizedText),
   })),
-  freelance: z.array(z.object({
-    id, icon: z.enum(['design', 'mobile', 'spark']), eyebrow: z.string(),
-    title: localizedText, description: localizedText,
-  })),
   services: z.array(z.object({
-    id: z.enum(['software', 'design', 'finance']), eyebrow: z.string(),
+    id: z.enum(['software', 'fintech', 'automation']), eyebrow: z.string(),
     title: localizedText, description: localizedText, cta: localizedText,
   })),
   education: z.array(z.object({ id, dates: localizedText, title: localizedText, description: localizedLines })),

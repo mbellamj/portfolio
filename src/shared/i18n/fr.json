@@ -187,63 +187,49 @@
   "freelanceEyebrow": [
     {
       "type": "text",
-      "value": "03 / Les premières missions"
+      "value": "03 / Premières expériences freelance"
     }
   ],
   "freelanceTitle": [
     {
       "type": "text",
-      "value": "Avant le diplôme,"
-    },
-    {
-      "type": "break"
-    },
-    {
-      "type": "emphasis",
-      "value": "déjà des clients."
+      "value": "Une première expérience entrepreneuriale"
     }
   ],
   "freelanceIntro": [
     {
       "type": "text",
-      "value": "J’ai commencé à travailler en freelance sur Upwork avant la fin de mes études. Des missions de design web et mobile, mais aussi des supports publicitaires et des templates personnalisés : mes premiers pas pour transformer une demande en un livrable concret."
+      "value": "J’ai commencé à travailler en freelance sur Upwork avant la fin de mes études. Ces premières missions portaient sur la conception de sites web et d’interfaces mobiles, ainsi que sur la création de supports publicitaires et de templates personnalisés. Cette expérience m’a appris à comprendre les demandes des clients et à transformer leurs besoins en livrables concrets."
     }
   ],
   "servicesEyebrow": [
     {
       "type": "text",
-      "value": "04 / Ce que je peux apporter"
+      "value": "04 / Services professionnels"
     }
   ],
   "servicesTitle": [
     {
       "type": "text",
-      "value": "Trois regards."
-    },
-    {
-      "type": "break"
-    },
-    {
-      "type": "emphasis",
-      "value": "Un même souci de clarté."
+      "value": "Trois expertises complémentaires."
     }
   ],
   "servicesIntro": [
     {
       "type": "text",
-      "value": "Comprendre le besoin, connecter les systèmes et expliquer les choix : un même fil conducteur entre mes expériences techniques et financières."
+      "value": "J’accompagne les équipes dans le développement de logiciels fiables, l’intégration de systèmes financiers et l’optimisation des opérations métier."
     }
   ],
   "fintechTitle": [
     {
       "type": "text",
-      "value": "Relier la technique, la finance et le client."
+      "value": "Relier la technologie, les opérations financières et les besoins métier."
     }
   ],
   "fintechCopy": [
     {
       "type": "text",
-      "value": "Mon expérience en backend et DevOps me permet de comprendre les systèmes et les intégrations. Le conseil financier et la relation client m’aident à préciser les besoins et à expliquer les solutions. Je souhaite réunir ces compétences dans un rôle de Solutions Engineer ou de consultant en intégration FinTech."
+      "value": "Mon expérience en backend, architecture logicielle et DevOps me permet de comprendre les systèmes, leurs intégrations et leurs contraintes opérationnelles. Ma connaissance des opérations financières et de la relation client complète cette approche en me permettant de mieux comprendre les besoins métier. Je souhaite réunir ces compétences dans des fonctions de FinTech Solutions Engineer, d’Implementation Consultant ou de Technical Business Analyst."
     }
   ],
   "educationEyebrow": [
@@ -287,7 +273,7 @@
   "contactIntro": [
     {
       "type": "text",
-      "value": "Une intégration API, un projet FinTech ou une opportunité de Solutions Engineer : échangeons sur vos besoins."
+      "value": "Pour une mission d’ingénierie logicielle, une intégration FinTech, l’automatisation de processus, une opportunité de recrutement ou une collaboration professionnelle, échangeons."
     }
   ],
   "nameLabel": [
@@ -308,22 +294,10 @@
       "value": "Ingénierie logicielle"
     }
   ],
-  "typeDesign": [
-    {
-      "type": "text",
-      "value": "Design & communication"
-    }
-  ],
-  "typeFinance": [
-    {
-      "type": "text",
-      "value": "Accompagnement financier"
-    }
-  ],
   "typeOther": [
     {
       "type": "text",
-      "value": "Autre échange"
+      "value": "Recrutement & collaboration professionnelle"
     }
   ],
   "messageLabel": [
@@ -384,14 +358,14 @@
   "footerNote": [
     {
       "type": "text",
-      "value": "La rigueur du code."
+      "value": "La rigueur de l’ingénierie."
     },
     {
       "type": "break"
     },
     {
       "type": "text",
-      "value": "Le regard financier. La relation client."
+      "value": "Les opérations financières. La compréhension métier."
     }
   ],
   "backTop": [
@@ -458,6 +432,18 @@
     {
       "type": "text",
       "value": "Activer le mode sombre"
+    }
+  ],
+  "typeFintech": [
+    {
+      "type": "text",
+      "value": "Intégration FinTech"
+    }
+  ],
+  "typeAutomation": [
+    {
+      "type": "text",
+      "value": "Automatisation des processus"
     }
   ]
 }
