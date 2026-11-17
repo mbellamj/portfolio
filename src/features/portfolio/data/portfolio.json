@@ -11,8 +11,8 @@
       "en": "Engineering · Financial Advisory · Digital Transformation"
     },
     "bio": {
-      "fr": "Ingénieur logiciel et consultant, j’interviens à la croisée de la technologie, de la finance et des enjeux métier. J’accompagne les entreprises, les dirigeants et les professionnels dans la conception de solutions digitales, l’automatisation de leurs processus et l’analyse de leurs problématiques opérationnelles et financières. Mon approche consiste à associer expertise technique, compréhension des besoins métier et vision stratégique pour transformer des problématiques concrètes en solutions utiles, évolutives et créatrices de valeur.",
-      "en": "I am a software engineer and consultant working at the intersection of technology, finance and business operations. I support businesses, executives and professionals in designing digital solutions, automating processes and addressing operational and financial challenges. My approach combines technical expertise, business understanding and strategic thinking to turn real-world challenges into practical, scalable solutions that create measurable value."
+      "fr": "Ingénieur logiciel et professionnel des opérations financières, j’interviens à la croisée de la technologie, de la finance et des enjeux métier. J’accompagne les entreprises dans la conception de solutions digitales, l’intégration de systèmes et l’automatisation de leurs processus. Mon expérience en ingénierie logicielle, complétée par une connaissance des opérations financières et de la relation client, me permet de transformer des besoins opérationnels en solutions concrètes, fiables et évolutives.",
+      "en": "I am a software engineer with experience in financial operations, working at the intersection of technology, finance and business needs. I help businesses design digital solutions, integrate systems and automate processes. My software engineering background, combined with an understanding of financial operations and customer relationships, enables me to turn operational needs into practical, reliable and scalable solutions."
     },
     "cvAsset": "assets/marco-mbella-cv-solutions-fintech.pdf"
   },
@@ -39,17 +39,17 @@
       "id": "finance",
       "icon": "cash",
       "value": {
-        "fr": "2 ans",
-        "en": "2 years"
+        "fr": "2025",
+        "en": "2025"
       },
       "description": {
         "fr": [
-          "de conseil",
-          "financier"
+          "depuis avril · opérations",
+          "financières"
         ],
         "en": [
-          "of financial",
-          "advisory experience"
+          "since April · financial",
+          "operations"
         ]
       }
     },
@@ -129,7 +129,7 @@
     },
     {
       "id": "systems",
-      "eyebrow": "03 / SYSTEMS",
+      "eyebrow": "03 / ARCHITECTURE & INTEGRATION",
       "title": {
         "fr": "Architecture & événements",
         "en": "Architecture & events"
@@ -147,7 +147,7 @@
     },
     {
       "id": "devops",
-      "eyebrow": "04 / DELIVERY",
+      "eyebrow": "04 / DEVOPS & CLOUD",
       "title": {
         "fr": "DevOps & cloud",
         "en": "DevOps & cloud"
@@ -163,12 +163,14 @@
         "Ansible",
         "GitLab CI/CD",
         "GitHub Actions",
-        "Azure · AWS · GCP"
+        "Azure",
+        "AWS",
+        "GCP"
       ]
     },
     {
       "id": "quality",
-      "eyebrow": "05 / QUALITY",
+      "eyebrow": "05 / QUALITY ENGINEERING",
       "title": {
         "fr": "Tests & qualité logicielle",
         "en": "Testing & software quality"
@@ -189,7 +191,7 @@
     },
     {
       "id": "data",
-      "eyebrow": "06 / DATA",
+      "eyebrow": "06 / DATA & DATABASES",
       "title": {
         "fr": "Données & persistance",
         "en": "Data & persistence"
@@ -219,39 +221,39 @@
       "location": "Paris, France",
       "company": "Smart Engine Advisory",
       "role": {
-        "fr": "Consultant indépendant · Conseil financier, FinTech & automatisation",
-        "en": "Independent Consultant · Financial Advisory, FinTech & Automation"
+        "fr": "Mandataire indépendant · Opérations financières, FinTech & automatisation",
+        "en": "Independent Agent · Financial Operations, FinTech & Automation"
       },
       "summary": {
-        "fr": "J’accompagne particuliers, dirigeants et professionnels dans l’analyse de leurs enjeux financiers et métier, ainsi que dans la conception de solutions digitales pour simplifier leurs opérations et améliorer leurs processus.",
-        "en": "I support individuals, business leaders and professionals in assessing financial and operational needs, and in designing digital solutions that simplify day-to-day operations and improve business processes."
+        "fr": "Depuis avril 2025, je contribue aux activités opérationnelles et commerciales d'un cabinet spécialisé dans l'accompagnement financier. Mon expérience couvre le suivi des portefeuilles clients, la gestion documentaire, l'information patrimoniale et l'automatisation de processus commerciaux. J'interviens également sur l'identification des besoins métier et la mise en place de solutions digitales visant à simplifier les opérations et la relation client.",
+        "en": "Since April 2025, I have contributed to the operational and commercial activities of a financial services firm. My experience includes client portfolio monitoring, document management, financial information and the automation of commercial processes. I also contribute to identifying business needs and implementing digital solutions that simplify operations and improve customer relationships."
       },
       "contributions": {
         "fr": [
-          "Analyse des objectifs, de la situation financière et des contraintes des clients afin de clarifier leurs besoins et leurs options.",
-          "Accompagnement sur les problématiques de financement, de crédit, d’endettement, d’investissement et de structuration patrimoniale.",
-          "Analyse de données financières et restitution de sujets complexes de façon claire et accessible à différents interlocuteurs.",
-          "Identification des tâches répétitives et des processus pouvant être optimisés par la digitalisation et l’automatisation.",
-          "Conception et mise en œuvre de workflows pour la capture et la qualification de leads, les relances clients et la circulation de l’information, du cadrage à la mise en production.",
-          "Collaboration directe avec les dirigeants et les équipes commerciales pour traduire les besoins métier en solutions concrètes et adaptées."
+          "Automatisation de la prospection commerciale et de la génération de leads.",
+          "Mise en place de workflows de relance et de rappels clients.",
+          "Suivi des portefeuilles clients, des documents contractuels et des pièces complémentaires.",
+          "Production et diffusion de newsletters patrimoniales présentant les produits proposés par le cabinet.",
+          "Analyse des besoins opérationnels et financiers des clients.",
+          "Collaboration avec les équipes commerciales pour améliorer les processus et les outils de suivi."
         ],
         "en": [
-          "Assessing clients’ goals, financial circumstances and constraints to clarify their needs and available options.",
-          "Supporting work on financing, credit, debt, investment and wealth-structuring matters.",
-          "Analyzing financial data and explaining complex topics clearly to a range of stakeholders.",
-          "Identifying repetitive tasks and business processes that can be improved through digitization and automation.",
-          "Designing and implementing workflows for lead capture and qualification, customer follow-ups and information flows, from initial scoping through production.",
-          "Working directly with business leaders and sales teams to translate operational needs into practical, tailored solutions."
+          "Automated commercial prospecting and lead generation workflows.",
+          "Set up customer reminder and follow-up workflows.",
+          "Monitored client portfolios, contractual documents and supporting files.",
+          "Prepared and distributed wealth and financial information newsletters presenting products offered by the firm.",
+          "Analyzed clients’ operational and financial needs.",
+          "Worked with sales teams to improve processes and client-monitoring tools."
         ]
       },
       "technologies": [
         {
-          "fr": "Analyse financière",
-          "en": "Financial analysis"
+          "fr": "Opérations financières",
+          "en": "Financial operations"
         },
         {
-          "fr": "Relation client & cadrage",
-          "en": "Client relationships & discovery"
+          "fr": "Suivi des portefeuilles clients",
+          "en": "Client portfolio monitoring"
         },
         {
           "fr": "FinTech",
@@ -476,94 +478,53 @@
       ]
     }
   ],
-  "freelance": [
-    {
-      "id": "web",
-      "icon": "design",
-      "eyebrow": "01",
-      "title": {
-        "fr": "Design web",
-        "en": "Web design"
-      },
-      "description": {
-        "fr": "Concevoir l’apparence et les interfaces de sites web à partir des besoins du client.",
-        "en": "Designing the look and interfaces of websites around a client’s needs."
-      }
-    },
-    {
-      "id": "mobile",
-      "icon": "mobile",
-      "eyebrow": "02",
-      "title": {
-        "fr": "Design d’applications mobiles",
-        "en": "Mobile application design"
-      },
-      "description": {
-        "fr": "Donner forme aux écrans et à l’expérience visuelle d’une application.",
-        "en": "Shaping the screens and visual experience of an application."
-      }
-    },
-    {
-      "id": "advertising",
-      "icon": "spark",
-      "eyebrow": "03",
-      "title": {
-        "fr": "Publicité & templates",
-        "en": "Advertising & templates"
-      },
-      "description": {
-        "fr": "Créer des visuels publicitaires et des modèles de prospectus pour les communications des clients.",
-        "en": "Creating advertising visuals and flyer templates for clients’ communications."
-      }
-    }
-  ],
   "services": [
     {
       "id": "software",
-      "eyebrow": "01 / SOFTWARE",
+      "eyebrow": "01 / SOFTWARE ENGINEERING",
       "title": {
-        "fr": "Construire & connecter",
-        "en": "Build & connect"
+        "fr": "Software Engineering",
+        "en": "Software Engineering"
       },
       "description": {
-        "fr": "Développement backend ou fullstack, intégrations API, architecture et automatisation des déploiements.",
-        "en": "Backend or fullstack development, API integrations, architecture and deployment automation."
+        "fr": "Développement d'applications, architecture logicielle, conception de systèmes robustes et évolutifs.",
+        "en": "Application development, software architecture and the design of robust, scalable systems."
       },
       "cta": {
-        "fr": "Parler d’un projet logiciel",
+        "fr": "Parler d'un projet logiciel",
         "en": "Discuss a software project"
       }
     },
     {
-      "id": "design",
-      "eyebrow": "02 / DESIGN",
+      "id": "fintech",
+      "eyebrow": "02 / FINTECH",
       "title": {
-        "fr": "Donner forme à une idée",
-        "en": "Give an idea its shape"
+        "fr": "FinTech & Systems Integration",
+        "en": "FinTech & Systems Integration"
       },
       "description": {
-        "fr": "Design d’interfaces web et mobiles, supports publicitaires et templates adaptés à un besoin de communication.",
-        "en": "Web and mobile interface design, advertising materials and templates adapted to a communication need."
+        "fr": "Intégration d'API, interconnexion de systèmes et conception de solutions digitales adaptées aux opérations financières.",
+        "en": "API integration, system interoperability and digital solutions tailored to financial operations."
       },
       "cta": {
-        "fr": "Parler d’un besoin de design",
-        "en": "Discuss a design need"
+        "fr": "Discuter d'une intégration",
+        "en": "Discuss an integration"
       }
     },
     {
-      "id": "finance",
-      "eyebrow": "03 / FINANCE",
+      "id": "automation",
+      "eyebrow": "03 / AUTOMATION",
       "title": {
-        "fr": "Clarifier les décisions",
-        "en": "Clarify your decisions"
+        "fr": "Business Process Automation",
+        "en": "Business Process Automation"
       },
       "description": {
-        "fr": "Accompagnement de particuliers pour organiser leurs finances, comprendre leurs objectifs et discuter de leurs choix d’investissement.",
-        "en": "Supporting individuals in organizing their finances, understanding their goals and discussing investment choices."
+        "fr": "Automatisation des workflows, optimisation des processus opérationnels et transformation digitale.",
+        "en": "Workflow automation, operational process optimization and digital transformation."
       },
       "cta": {
-        "fr": "Échanger sur vos objectifs",
-        "en": "Discuss your goals"
+        "fr": "Échanger sur un processus",
+        "en": "Discuss a business process"
       }
     }
   ],
