@@ -16,7 +16,7 @@ describe('portfolio interactions', () => {
     expect(screen.getAllByRole('link', { name: /Télécharger mon CV/ })).toHaveLength(2);
     fireEvent.click(screen.getByRole('button', { name: 'Switch to English' }));
     expect(screen.getByText('4 years')).toBeInTheDocument();
-    expect(screen.getByText('2 years')).toBeInTheDocument();
+    expect(screen.getByText('2025')).toBeInTheDocument();
     expect(document.documentElement.lang).toBe('en');
     expect(screen.getByRole('heading', { name: /Engineering.*For financial services/ })).toBeInTheDocument();
   });
@@ -34,8 +34,8 @@ describe('portfolio interactions', () => {
   });
   it('preselects services, composes an email draft, and preserves inputs when editing', () => {
     renderApp();
-    fireEvent.click(screen.getByRole('link', { name: /Échanger sur vos objectifs/ }));
-    expect(screen.getByLabelText('Le sujet')).toHaveValue('finance');
+    fireEvent.click(screen.getByRole('link', { name: /Discuter d'une intégration/ }));
+    expect(screen.getByLabelText('Le sujet')).toHaveValue('fintech');
     fireEvent.change(screen.getByLabelText('Votre nom'), { target: { value: 'Céline' } });
     fireEvent.change(screen.getByLabelText('Votre idée ou votre besoin'), { target: { value: 'Une idée & un objectif.' } });
     fireEvent.click(screen.getByRole('button', { name: /Préparer l’email/ }));
@@ -43,7 +43,7 @@ describe('portfolio interactions', () => {
     const href = new URL(link.getAttribute('href') ?? '');
     expect(href.pathname).toBe('marcombella.pro@gmail.com');
     expect(href.searchParams.get('body')).toContain('Une idée & un objectif.');
-    expect(href.searchParams.get('subject')).toContain('Accompagnement financier');
+    expect(href.searchParams.get('subject')).toContain('Intégration FinTech');
     fireEvent.click(screen.getByRole('button', { name: 'Modifier' }));
     expect(screen.getByLabelText('Votre nom')).toHaveValue('Céline');
     expect(screen.getByLabelText('Votre idée ou votre besoin')).toHaveValue('Une idée & un objectif.');
