@@ -18,7 +18,7 @@ describe('portfolio interactions', () => {
     expect(screen.getByText('4 years')).toBeInTheDocument();
     expect(screen.getByText('2025')).toBeInTheDocument();
     expect(document.documentElement.lang).toBe('en');
-    expect(screen.getByRole('heading', { name: /Engineering.*For financial services/ })).toBeInTheDocument();
+    expect(screen.getByRole('heading', { name: /A technical foundation.*A business perspective/ })).toBeInTheDocument();
   });
   it('filters experience without altering the source records', () => {
     const { container } = renderApp();
