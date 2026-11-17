@@ -14,7 +14,7 @@ describe('portfolio data boundary', () => {
     const result = await repository.read();
     expect(result.highlights.map(item => item.icon)).toEqual(['code', 'cash', 'graduation', 'certificate']);
     expect(result.highlights[0]?.value?.en).toBe('4 years');
-    expect(result.highlights[1]?.value?.en).toBe('2025');
+    expect(result.highlights[1]?.value?.en).toBe('2 years');
     expect(result.experiences).toHaveLength(5);
     expect(repository.initialData).toEqual(result);
   });

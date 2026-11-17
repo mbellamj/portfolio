@@ -23,7 +23,7 @@ export function App({ repository }: { repository?: PortfolioRepository }) {
   const [selection, setSelection] = useState<ContactSelection | null>(null);
   const name = query.data?.profile.name ?? 'Marco Mbella';
   useEffect(() => {
-    document.title = `${name} — ${locale === 'fr' ? 'Ingénieur logiciel · FinTech & transformation des entreprises' : 'Software Engineer · FinTech & Business Transformation'}`;
+    document.title = `${name} — ${locale === 'fr' ? 'Ingénieur logiciel & conseiller financier' : 'Software Engineer & Financial Advisor'}`;
     const meta = document.querySelector<HTMLMetaElement>('meta[name="description"]');
     if (meta && query.data) meta.content = query.data.profile.bio[locale];
     if (appConfig.siteUrl) {
@@ -41,7 +41,7 @@ export function App({ repository }: { repository?: PortfolioRepository }) {
   return <>
     <a className="skip" href="#main"><Copy message="skip" /></a><Header name={data.profile.name} />
     {query.isError && <p className="refresh-warning" role="status">{locale === 'fr' ? 'La dernière version enregistrée du contenu est affichée.' : 'The last cached content is being displayed.'}</p>}
-    <main id="main"><Hero profile={data.profile} /><Highlights items={data.highlights} /><Expertise items={data.skills} /><ExperienceSection items={data.experiences} /><FreelanceSection /><ServicesSection items={data.services} onSelect={selectService} /><EducationSection items={data.education} /><ContactSection profile={data.profile} selection={selection} /></main>
+    <main id="main"><Hero profile={data.profile} /><Highlights items={data.highlights} /><Expertise items={data.skills} /><ExperienceSection items={data.experiences} /><FreelanceSection items={data.freelance} /><ServicesSection items={data.services} onSelect={selectService} /><EducationSection items={data.education} /><ContactSection profile={data.profile} selection={selection} /></main>
     <Footer profile={data.profile} />
   </>;
 }

@@ -12,6 +12,6 @@ describe('email draft composition', () => {
     expect(result.body).toMatch(locale === 'fr' ? /Bonjour Marco,\n\n/ : /Hi Marco,\n\n/);
   });
   it('rejects whitespace-only input', () => {
-    expect(() => buildContactEmail('en', { name: ' ', type: 'automation', message: 'Message' }, 'marcombella.pro@gmail.com')).toThrow();
+    expect(() => buildContactEmail('en', { name: ' ', type: 'finance', message: 'Message' }, 'marcombella.pro@gmail.com')).toThrow();
   });
 });

@@ -187,49 +187,63 @@
   "freelanceEyebrow": [
     {
       "type": "text",
-      "value": "03 / Early freelance experience"
+      "value": "03 / The early freelance work"
     }
   ],
   "freelanceTitle": [
     {
       "type": "text",
-      "value": "An early entrepreneurial experience"
+      "value": "Before graduation,"
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "emphasis",
+      "value": "already working with clients."
     }
   ],
   "freelanceIntro": [
     {
       "type": "text",
-      "value": "I started freelancing on Upwork before completing my studies. These early projects involved website and mobile interface design, as well as advertising materials and custom templates. This experience taught me to understand client requirements and turn them into tangible deliverables."
+      "value": "I started freelancing on Upwork before finishing my studies. Web and mobile design, advertising materials and custom templates: my first experiences turning a client request into a concrete deliverable."
     }
   ],
   "servicesEyebrow": [
     {
       "type": "text",
-      "value": "04 / Professional services"
+      "value": "04 / How I can contribute"
     }
   ],
   "servicesTitle": [
     {
       "type": "text",
-      "value": "Three areas of expertise."
+      "value": "Three perspectives."
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "emphasis",
+      "value": "The same focus on clarity."
     }
   ],
   "servicesIntro": [
     {
       "type": "text",
-      "value": "I help teams build reliable software, connect financial systems and streamline business operations."
+      "value": "Understand the need, connect systems and explain the choices: a consistent approach across my engineering and financial experience."
     }
   ],
   "fintechTitle": [
     {
       "type": "text",
-      "value": "Connecting technology, financial operations and business needs."
+      "value": "Connecting technology, finance and clients."
     }
   ],
   "fintechCopy": [
     {
       "type": "text",
-      "value": "My experience in backend engineering, software architecture and DevOps helps me understand systems, integrations and operational constraints. My knowledge of financial operations and customer relationships complements this technical background by helping me understand business requirements. I aim to bring these skills together in roles such as FinTech Solutions Engineer, Implementation Consultant or Technical Business Analyst."
+      "value": "My backend and DevOps experience helps me understand systems and integrations. Financial advisory and client work help me clarify requirements and explain solutions. I aim to combine these skills in a FinTech Solutions Engineer or implementation consulting role."
     }
   ],
   "educationEyebrow": [
@@ -273,7 +287,7 @@
   "contactIntro": [
     {
       "type": "text",
-      "value": "For software engineering, FinTech integrations, business process automation, recruitment or professional collaboration, let’s connect."
+      "value": "An API integration, a FinTech project or a Solutions Engineer opportunity: let’s discuss your needs."
     }
   ],
   "nameLabel": [
@@ -294,10 +308,22 @@
       "value": "Software engineering"
     }
   ],
+  "typeDesign": [
+    {
+      "type": "text",
+      "value": "Design & communication"
+    }
+  ],
+  "typeFinance": [
+    {
+      "type": "text",
+      "value": "Financial support"
+    }
+  ],
   "typeOther": [
     {
       "type": "text",
-      "value": "Recruitment & professional collaboration"
+      "value": "Something else"
     }
   ],
   "messageLabel": [
@@ -358,14 +384,14 @@
   "footerNote": [
     {
       "type": "text",
-      "value": "The rigor of engineering."
+      "value": "The rigor of code."
     },
     {
       "type": "break"
     },
     {
       "type": "text",
-      "value": "Financial operations. Business understanding."
+      "value": "Financial insight. Client understanding."
     }
   ],
   "backTop": [
@@ -432,18 +458,6 @@
     {
       "type": "text",
       "value": "Switch to dark mode"
-    }
-  ],
-  "typeFintech": [
-    {
-      "type": "text",
-      "value": "FinTech integration"
-    }
-  ],
-  "typeAutomation": [
-    {
-      "type": "text",
-      "value": "Business process automation"
     }
   ]
 }
