@@ -87,7 +87,7 @@
   "skills": [
     {
       "id": "backend",
-      "eyebrow": "01 / BACKEND",
+      "eyebrow": "01 / BACKEND ENGINEERING",
       "title": {
         "fr": "API & logique métier",
         "en": "APIs & business logic"
@@ -108,7 +108,7 @@
     },
     {
       "id": "frontend",
-      "eyebrow": "02 / FRONTEND",
+      "eyebrow": "02 / FRONTEND ENGINEERING",
       "title": {
         "fr": "Interfaces web & mobile",
         "en": "Web & mobile interfaces"
