@@ -219,23 +219,29 @@
       "location": "Paris, France",
       "company": "Smart Engine Advisory",
       "role": {
-        "fr": "Finance & conseil digital",
-        "en": "Finance & digital consulting"
+        "fr": "Consultant indépendant · Conseil financier, FinTech & automatisation",
+        "en": "Independent Consultant · Financial Advisory, FinTech & Automation"
       },
       "summary": {
-        "fr": "Accompagnement de particuliers, analyse de situations financières et patrimoniales, et traduction de problématiques complexes en éléments utiles à la décision.",
-        "en": "Supporting individuals, analyzing financial and wealth situations, and translating complex issues into useful information for decision-making."
+        "fr": "J’accompagne particuliers, dirigeants et professionnels dans l’analyse de leurs enjeux financiers et métier, ainsi que dans la conception de solutions digitales pour simplifier leurs opérations et améliorer leurs processus.",
+        "en": "I support individuals, business leaders and professionals in assessing financial and operational needs, and in designing digital solutions that simplify day-to-day operations and improve business processes."
       },
       "contributions": {
         "fr": [
-          "Analyse des objectifs, de la situation et des contraintes du client.",
-          "Travail sur les enjeux de financement, de crédit, d’endettement, d’investissement et de structuration patrimoniale.",
-          "Analyse de données financières et vulgarisation auprès de différents interlocuteurs."
+          "Analyse des objectifs, de la situation financière et des contraintes des clients afin de clarifier leurs besoins et leurs options.",
+          "Accompagnement sur les problématiques de financement, de crédit, d’endettement, d’investissement et de structuration patrimoniale.",
+          "Analyse de données financières et restitution de sujets complexes de façon claire et accessible à différents interlocuteurs.",
+          "Identification des tâches répétitives et des processus pouvant être optimisés par la digitalisation et l’automatisation.",
+          "Conception et mise en œuvre de workflows pour la capture et la qualification de leads, les relances clients et la circulation de l’information, du cadrage à la mise en production.",
+          "Collaboration directe avec les dirigeants et les équipes commerciales pour traduire les besoins métier en solutions concrètes et adaptées."
         ],
         "en": [
-          "Analyzing clients’ goals, financial circumstances and constraints.",
-          "Working on financing, credit, debt, investment and wealth structuring.",
-          "Analyzing financial data and explaining complex topics to different stakeholders."
+          "Assessing clients’ goals, financial circumstances and constraints to clarify their needs and available options.",
+          "Supporting work on financing, credit, debt, investment and wealth-structuring matters.",
+          "Analyzing financial data and explaining complex topics clearly to a range of stakeholders.",
+          "Identifying repetitive tasks and business processes that can be improved through digitization and automation.",
+          "Designing and implementing workflows for lead capture and qualification, customer follow-ups and information flows, from initial scoping through production.",
+          "Working directly with business leaders and sales teams to translate operational needs into practical, tailored solutions."
         ]
       },
       "technologies": [
@@ -244,12 +250,20 @@
           "en": "Financial analysis"
         },
         {
-          "fr": "Relation client",
-          "en": "Client relationships"
+          "fr": "Relation client & cadrage",
+          "en": "Client relationships & discovery"
         },
         {
-          "fr": "Conseil digital",
-          "en": "Digital consulting"
+          "fr": "FinTech",
+          "en": "FinTech"
+        },
+        {
+          "fr": "Automatisation des processus",
+          "en": "Process automation"
+        },
+        {
+          "fr": "Workflows & intégrations",
+          "en": "Workflows & integrations"
         }
       ]
     },
